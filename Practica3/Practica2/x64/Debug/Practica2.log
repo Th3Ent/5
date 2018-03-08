@@ -1,0 +1,12 @@
+﻿  Practica2.cpp
+  Maquina.cpp
+  Hormiga_viceversa.cpp
+  Hormiga_IIDD.cpp
+  Generando código...
+c:\users\pablo\desktop\programacion\aeda\practica3\practica2\hormiga_iidd.cpp(111): warning C4715: 'Hormiga_IIDD::regla': no todas las rutas de acceso de control devuelven un valor
+c:\users\pablo\desktop\programacion\aeda\practica3\practica2\hormiga_viceversa.cpp(64): warning C4715: 'Hormiga_viceversa::regla': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  Rejilla.cpp
+  Hormiga.cpp
+  Generando código...
+  Practica2.vcxproj -> C:\Users\pablo\Desktop\Programacion\AEDA\Practica3\x64\Debug\Practica2.exe
